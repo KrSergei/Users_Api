@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSi\\source\\repos\\Users_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\db\\clientbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\db\\takebookresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\dto\\clientbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\controllers\\clientbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\client\\librarybooksclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\client\\libraryusersclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B7BA8-A5A5-488B-B019-B81546E69411}|..\\ClientBooksApi\\ClientBooksApi.csproj|c:\\users\\msi\\source\\repos\\clientbooksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TakeBookResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\TakeBookResultDto.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Db\\TakeBookResultDto.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\TakeBookResultDto.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Db\\TakeBookResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:16:06.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientBook.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\ClientBook.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Db\\ClientBook.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\ClientBook.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Db\\ClientBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:16:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Dto\\ClientBookDto.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Dto\\ClientBookDto.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Dto\\ClientBookDto.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Dto\\ClientBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:15:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryBooksClient.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Client\\LibraryBooksClient.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Client\\LibraryBooksClient.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Client\\LibraryBooksClient.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Client\\LibraryBooksClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:56:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryUsersClient.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Client\\LibraryUsersClient.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Client\\LibraryUsersClient.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Client\\LibraryUsersClient.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Client\\LibraryUsersClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:49:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientBookController.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Controllers\\ClientBookController.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Controllers\\ClientBookController.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Controllers\\ClientBookController.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Controllers\\ClientBookController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:46:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Db\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:28:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ClientBooksApi\\Program.cs",
+              "ToolTip": "C:\\Users\\MSi\\source\\repos\\ClientBooksApi\\Program.cs",
+              "RelativeToolTip": "..\\ClientBooksApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:26:52.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
